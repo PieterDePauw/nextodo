@@ -9,6 +9,7 @@
     "**/node_modules": true,
     ".vscode": true,
     ".idea": true,
-    ".yarn": true
+    ".yarn": true,
+    ".history": true
   }
 }
