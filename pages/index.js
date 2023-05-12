@@ -5,7 +5,9 @@ export default function Home() {
     const handleAddTodo = () => {
         console.log("add");
     }
-    return (<>
-        <TodosApp/>
-    </>)
+    return (
+        <>
+            <TodosApp/>
+        </>
+    )
 }
